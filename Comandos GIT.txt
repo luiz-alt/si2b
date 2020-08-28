@@ -1,0 +1,20 @@
+Comando para clonar - git clone
+comando para entrar no arquivo que baixou - cd
+comando para ver tudo que tem dentro do repositorio - ls
+Comando para me mostrar o diretorio que estou no momento - PWD
+Comando para verificar o status se ja foi para o guthub - git status
+Comando para adicionar no repositorio - git add
+Comando para adicionar todos os arquivos da pasta - git add *
+Comando para comentar o meu repositorio(Obrigatorio) - git commit -m
+Comando para configurar o e-mail no git - git config --global user.email "xxx@y"
+Comando para configurar meu usuario - git config --global user.name "Your Name"
+Comando para publicar no github - git push
+Comando para trocar de Branch - git checkout
+Comando para trazer os arquivos que estão no branch x para o branch y - git merge
+Comando para atualizar o o repositorio LOCAL - git pull
+
+
+
+
+
+
